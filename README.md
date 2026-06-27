@@ -1,6 +1,7 @@
 # Aarush Kandukoori
 
 Computer Science + Statistics & Machine Learning at Carnegie Mellon (B.S. 2028). I build ML systems and medical hardware, and research computer vision and database systems.
+https://aarushkandukoori.com/
 
 ## Currently
 
