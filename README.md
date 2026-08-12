@@ -30,3 +30,14 @@ Python, PyTorch, deep learning, computer vision, React/Vite, FastAPI, Supabase, 
 ## Links
 
 [Email](mailto:akanduko@andrew.cmu.edu) · [LinkedIn](https://www.linkedin.com/in/aarush-kandukoori/) · [Website](https://www.aarushkandukoori.com/) · [Google Scholar](https://scholar.google.com/citations?user=pmKcjfQAAAAJ&hl=en) · [Book a call](https://calendly.com/aarushkandukoori/30min)
+
+<!-- auto:presence:start -->
+### Current highlights
+
+- Replicating CoT-faithfulness findings — do language models say what they actually think? (Turpin et al. / Anthropic methodology)
+- Contributing to [Pie](https://github.com/pie-project/pie), a programmable LLM serving system, with Rust work on the serving layer
+- Latest blog post: [Memory You Can Actually Address](https://aarushkandukoori.com/posts/memory-you-can-address/) (2026-08-10)
+- This week: opened [pie-project/pie#527](https://github.com/pie-project/pie/pull/527) — docs(website): sync the pie run flag table with the actual CLI
+
+<sub>Auto-refreshed weekly · week 2026-W33</sub>
+<!-- auto:presence:end -->
