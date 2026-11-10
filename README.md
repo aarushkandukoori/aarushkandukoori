@@ -6,7 +6,7 @@ Computer Science + Statistics & Machine Learning at Carnegie Mellon (B.S. 2028).
 
 - **BUMP** — a closed-loop wearable atropine pump for crashing bradycardia.
 - A Rust/DataFusion benchmark harness for TPC-DS, evaluating vertical partitioning in Apache Parquet (with Drew Ripberger, CMU).
-- Lyric-to-image synthesis — translating musical emotion into visual form, with Prof. Eunsu Kang (in submission to NeurIPS).
+- Lyric-to-image synthesis — translating musical emotion into visual form, with Prof. Eunsu Kang.
 
 ## Selected work & research
 
@@ -17,7 +17,7 @@ Selected code is pinned below.
 
 ## BUMP
 
-Co-founder & CEO. A patent-pending, closed-loop wearable atropine pump that monitors heart rate and auto-doses for crashing bradycardia (USPTO provisional 63/686,176). Industrial prototype built; advised by a Harvard Medical School faculty member.
+Co-founder & CEO. A patent-pending, closed-loop wearable atropine pump that monitors heart rate and auto-doses for crashing bradycardia (USPTO provisional 63/686,176). Arduino prototype bench-tested in 2023; advised by a Harvard Medical School faculty member.
 
 ## MoCo Innovation
 
